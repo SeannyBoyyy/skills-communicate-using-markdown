@@ -1,24 +1,47 @@
-# My First Header
-## My Second Header
-### My Third Header
+# 👋 Hi, I'm Sean
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Welcome to my mini portfolio site, built with **Markdown** and hosted using **GitHub Pages**!  
 
+---
+
+## 📌 About Me  
+🎓 4th Year BS Information Technology Student  
+💻 Passionate about web development and web design
+🚀 Currently exploring GitHub Skills
+
+---
+
+## 🛠 Skills  
+- **Programming Languages:** HTML, CSS, JavaScript, C++, Java, PHP  
+- **Database Management:** MySQL  
+- **Frameworks & Tools:** Node.js, Bootstrap, React Native  
+- **Others:** Git, Firebase, GitHub Actions  
+
+---
+
+## 🖼 Sample Image  
+![GitHub Octocat](https://octodex.github.com/images/yaktocat.png)
+
+---
+
+## 💻 Code Example (C++)  
 ```cpp
 #include <iostream>
 using namespace std;
 
 int main() {
-    cout << "Hello, Markdown from C++!" << endl;
+    cout << "Hello, GitHub Pages!" << endl;
     return 0;
 }
-```
 
 ## My Task List
 
-- [x] Add headers
-- [x] Add an image
-- [x] Add a code example in C++
-- [ ] Finish the Markdown course
-- [ ] Celebrate completion 🎉
+- [x] Learn Markdown
+- [x] Complete a GitHub Skills course
+- [ ] Build more open-source projects
+- [ ] Create a full personal portfolio website
 
+## 📫 Connect with Me
+
+- GitHub: SeannyBoyyy
+- Email: seamdesagun@gmail.com
