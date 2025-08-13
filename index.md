@@ -44,6 +44,7 @@ int main() {
 
 ## 📫 Connect with Me
 
-- GitHub: SeannyBoyyy
+- GitHub: ![SeannyBoyyy](https://github.com/SeannyBoyyy)
 - Email: seamdesagun@gmail.com
+
 
